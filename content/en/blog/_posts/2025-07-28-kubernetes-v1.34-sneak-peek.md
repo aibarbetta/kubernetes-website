@@ -13,11 +13,8 @@ author: >
 
 As the release of Kubernetes v1.34 approaches, ... TODO blog introduction
 
-## The Kubernetes API removal and deprecation process
-TODO Explanation of removal and deprecation process. Do we need this section if we don't have removals/deprecations in this release?
-
-## Deprecations and removals for Kubernetes v1.34
-TODO Do we have any in this release?
+## A note about xxx
+TODO Here you can insert a note about a topic of the release or tangential to it. This can be a note about a feature, a process, or a community initiative that you think is important to highlight in the mid-cycle blog.
 
 ## Featured enhancements of Kubernetes v1.34
 The following list of enhancements is likely to be included in the v1.34 release. This is not a commitment and the release content is subject to change.
@@ -50,19 +47,19 @@ Here are some KEPs suggestions to write about:
 ---
 
 ### KEP highlight #1
-TODO KEP highlight #1
+TODO KEP explanation paragraph
 
 ### KEP highlight #2
-TODO KEP highlight #2
+TODO KEP explanation paragraph
 
 ### KEP highlight #3
-TODO KEP highlight #3
+TODO KEP explanation paragraph
 
 ### KEP highlight #4
-TODO KEP highlight #4
+TODO KEP explanation paragraph
 
 ### KEP highlight #5
-TODO KEP highlight #5
+TODO KEP explanation paragraph
 
 ## Want to know more?
 New features and deprecations are also announced in the Kubernetes release notes. We will formally announce what's new in [Kubernetes v1.34](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.34.md) as part of the CHANGELOG for that release.
